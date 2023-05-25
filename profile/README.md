@@ -6,5 +6,6 @@
 - Fully typed query builder for SQLite and PostgreSQL
 - Includes caching, search, conditional logic, user permissions, and more!
 
-Website: [https://pruvious.com/](https://pruvious.com/)
-Documentation: [https://pruvious.com/documentation](https://pruvious.com/documentation)
+**Website:** [https://pruvious.com/](https://pruvious.com/)
+
+**Documentation:** [https://pruvious.com/documentation](https://pruvious.com/documentation)
